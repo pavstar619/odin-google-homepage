@@ -16,7 +16,7 @@ body {
     padding: 0;
     display: block;
     float: right;
-    padding: 5px;
+    padding: 10px;
 }
 
 .footer {
@@ -27,6 +27,7 @@ body {
     background-color: #f2f2f2;
     color: white;
     text-align: center;
+    position:fixed
   }
 
 .footer li {
@@ -40,4 +41,9 @@ body {
     height:60px;   /* Height of the footer */
 }
 
+.search {
+    height: 3em;
+    width: 40em;
+    border-radius: 10px;
+}
 
